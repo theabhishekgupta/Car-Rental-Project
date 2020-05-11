@@ -24,7 +24,7 @@ B. Employee Screen
 
 THE MAIN SCREEN AND OPTION SCREEN
 ============================================================================================
-![](images/1stpic.png)
+![picture](1stpic.png)
 
 STEPS TO BE DONE BEFORE THE MainScreen
 Before we design the Main Screen , we need to do the following:
