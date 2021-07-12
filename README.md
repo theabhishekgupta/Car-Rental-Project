@@ -1,6 +1,7 @@
 # **CITY CAR RENTAL Project**
+
 TOTAL SCREENS IN THE PROJECT
-Overall , the project "CITY CAR RENTAL" , will have following screens:
+
 1. **Main Screen**
 2. **Login Screen**
 
@@ -31,8 +32,6 @@ THE MAIN SCREEN AND OPTION SCREEN
 ![picture](4pic.png)
 
 
-STEPS TO BE DONE BEFORE THE MainScreen
-Before we design the Main Screen , we need to do the following:
-1. *Add support of conio2.h in our project*
-2. Create a header file called "car.h" which will contain structure declarations, typedef statements and function declarations
-3. Create a source code file called "car.c" which will contain definitions of the functions declared in the file "car.h" 
+ *Add support of conio2.h in our project*
+1. Create a header file called "car.h" which will contain structure declarations, typedef statements and function declarations
+2. Create a source code file called "car.c" which will contain definitions of the functions declared in the file "car.h" 
